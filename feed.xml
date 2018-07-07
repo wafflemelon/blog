@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Anurag's Blog</title>
+    <description></description>
+    <link>https://blogging.just-might-be.fun</link>
+    <atom:link href="https://blogging.just-might-be.fun/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hello there!</title>
+        <description>A little introduction of myself and what I do.</description>
+        <pubDate>Thu, 05 Jul 2018 00:00:00 +0530</pubDate>
+        <link>https://blogging.just-might-be.fun/posts/first-post</link>
+        <guid isPermaLink="true">https://blogging.just-might-be.fun/posts/first-post</guid>
+      </item>
+    
+  </channel>
+</rss>

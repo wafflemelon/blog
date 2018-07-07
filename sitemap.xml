@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blogging.just-might-be.fun/tag/design/</loc>
+<lastmod>2018-07-07T18:49:21+05:30</lastmod>
+</url>
+<url>
+<loc>https://blogging.just-might-be.fun/tag/jekyll/</loc>
+<lastmod>2018-07-07T18:49:21+05:30</lastmod>
+</url>
+<url>
+<loc>https://blogging.just-might-be.fun/tag/web/</loc>
+<lastmod>2018-07-07T18:49:21+05:30</lastmod>
+</url>
+<url>
+<loc>https://blogging.just-might-be.fun/posts/first-post</loc>
+<lastmod>2018-07-05T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://blogging.just-might-be.fun/about</loc>
+</url>
+<url>
+<loc>https://blogging.just-might-be.fun/</loc>
+</url>
+</urlset>
